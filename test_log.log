@@ -1,0 +1,45 @@
+2023-11-15 16:30:48,770 - INFO - Compilation Successful.
+2023-11-15 16:30:48,800 - INFO - Code style check passed for src/program.cpp
+2023-11-15 16:30:48,865 - INFO - Resource usage for test-1.txt: resource.struct_rusage(ru_utime=0.21437099999999998, ru_stime=0.039517, ru_maxrss=92995584, ru_ixrss=0, ru_idrss=0, ru_isrss=0, ru_minflt=11573, ru_majflt=209, ru_nswap=0, ru_inblock=0, ru_oublock=0, ru_msgsnd=0, ru_msgrcv=0, ru_nsignals=1, ru_nvcsw=3, ru_nivcsw=390)
+2023-11-15 16:30:48,865 - INFO - Test case test-1.txt: Passed
+2023-11-15 16:30:48,899 - INFO - Code style check passed for src/program.cpp
+2023-11-15 16:30:48,901 - INFO - Resource usage for test-2.txt: resource.struct_rusage(ru_utime=0.24204299999999998, ru_stime=0.046082, ru_maxrss=92995584, ru_ixrss=0, ru_idrss=0, ru_isrss=0, ru_minflt=12636, ru_majflt=210, ru_nswap=0, ru_inblock=0, ru_oublock=0, ru_msgsnd=0, ru_msgrcv=0, ru_nsignals=1, ru_nvcsw=3, ru_nivcsw=397)
+2023-11-15 16:30:48,901 - INFO - Test case test-2.txt: Passed
+2023-11-15 16:30:48,931 - INFO - Code style check passed for src/program.cpp
+2023-11-15 16:30:48,933 - INFO - Resource usage for test-3.txt: resource.struct_rusage(ru_utime=0.266397, ru_stime=0.051626, ru_maxrss=92995584, ru_ixrss=0, ru_idrss=0, ru_isrss=0, ru_minflt=13717, ru_majflt=211, ru_nswap=0, ru_inblock=0, ru_oublock=0, ru_msgsnd=0, ru_msgrcv=0, ru_nsignals=1, ru_nvcsw=3, ru_nivcsw=404)
+2023-11-15 16:30:48,933 - INFO - Test case test-3.txt: Passed
+2023-11-15 16:30:48,963 - INFO - Code style check passed for src/program.cpp
+2023-11-15 16:33:26,861 - INFO - Compilation Successful.
+2023-11-15 16:33:26,899 - INFO - Code style check passed for src/program.cpp
+2023-11-15 16:33:26,900 - INFO - Resource usage for test-1.txt: resource.struct_rusage(ru_utime=0.032604, ru_stime=0.010027999999999999, ru_maxrss=11108352, ru_ixrss=0, ru_idrss=0, ru_isrss=0, ru_minflt=1595, ru_majflt=3, ru_nswap=0, ru_inblock=0, ru_oublock=0, ru_msgsnd=0, ru_msgrcv=0, ru_nsignals=0, ru_nvcsw=1, ru_nivcsw=27)
+2023-11-15 16:33:26,901 - INFO - Test case test-1.txt: Passed
+2023-11-15 16:33:26,932 - INFO - Code style check passed for src/program.cpp
+2023-11-15 16:33:26,933 - INFO - Resource usage for test-2.txt: resource.struct_rusage(ru_utime=0.057761, ru_stime=0.015988, ru_maxrss=11108352, ru_ixrss=0, ru_idrss=0, ru_isrss=0, ru_minflt=2656, ru_majflt=4, ru_nswap=0, ru_inblock=0, ru_oublock=0, ru_msgsnd=0, ru_msgrcv=0, ru_nsignals=0, ru_nvcsw=1, ru_nivcsw=51)
+2023-11-15 16:33:26,934 - INFO - Test case test-2.txt: Passed
+2023-11-15 16:33:26,964 - INFO - Code style check passed for src/program.cpp
+2023-11-15 16:33:26,966 - INFO - Resource usage for test-3.txt: resource.struct_rusage(ru_utime=0.082484, ru_stime=0.021797999999999998, ru_maxrss=11108352, ru_ixrss=0, ru_idrss=0, ru_isrss=0, ru_minflt=3726, ru_majflt=5, ru_nswap=0, ru_inblock=0, ru_oublock=0, ru_msgsnd=0, ru_msgrcv=0, ru_nsignals=0, ru_nvcsw=1, ru_nivcsw=62)
+2023-11-15 16:33:26,966 - INFO - Test case test-3.txt: Passed
+2023-11-15 16:33:26,996 - INFO - Code style check passed for src/program.cpp
+2023-11-15 16:33:37,862 - INFO - Compilation Successful.
+2023-11-15 16:33:37,898 - INFO - Code style check passed for src/program.cpp
+2023-11-15 16:33:37,900 - INFO - Resource usage for test-1.txt: resource.struct_rusage(ru_utime=0.031851, ru_stime=0.009871999999999999, ru_maxrss=10895360, ru_ixrss=0, ru_idrss=0, ru_isrss=0, ru_minflt=1576, ru_majflt=3, ru_nswap=0, ru_inblock=0, ru_oublock=0, ru_msgsnd=0, ru_msgrcv=0, ru_nsignals=0, ru_nvcsw=0, ru_nivcsw=19)
+2023-11-15 16:33:37,900 - INFO - Test case test-1.txt: Passed
+2023-11-15 16:33:37,931 - INFO - Code style check passed for src/program.cpp
+2023-11-15 16:33:37,932 - INFO - Resource usage for test-2.txt: resource.struct_rusage(ru_utime=0.056398, ru_stime=0.015789, ru_maxrss=10895360, ru_ixrss=0, ru_idrss=0, ru_isrss=0, ru_minflt=2644, ru_majflt=4, ru_nswap=0, ru_inblock=0, ru_oublock=0, ru_msgsnd=0, ru_msgrcv=0, ru_nsignals=0, ru_nvcsw=0, ru_nivcsw=26)
+2023-11-15 16:33:37,932 - INFO - Test case test-2.txt: Passed
+2023-11-15 16:33:37,963 - INFO - Code style check passed for src/program.cpp
+2023-11-15 16:33:37,965 - INFO - Resource usage for test-3.txt: resource.struct_rusage(ru_utime=0.08108499999999999, ru_stime=0.021705, ru_maxrss=11157504, ru_ixrss=0, ru_idrss=0, ru_isrss=0, ru_minflt=3721, ru_majflt=5, ru_nswap=0, ru_inblock=0, ru_oublock=0, ru_msgsnd=0, ru_msgrcv=0, ru_nsignals=0, ru_nvcsw=0, ru_nivcsw=37)
+2023-11-15 16:33:37,965 - ERROR - Test case test-3.txt: Failed
+2023-11-15 16:33:37,965 - ERROR - Diff for test-3.txt:
+--- Expected output
++++ Your output
+@@ -1 +1 @@
+-12
++11
+2023-11-15 16:33:37,995 - INFO - Code style check passed for src/program.cpp
+2023-11-15 17:12:17,184 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-11-15 17:12:17,184 - INFO - [33mPress CTRL+C to quit[0m
+2023-11-15 17:13:19,276 - INFO - 127.0.0.1 - - [15/Nov/2023 17:13:19] "GET / HTTP/1.1" 200 -
+2023-11-15 17:13:22,622 - INFO - 127.0.0.1 - - [15/Nov/2023 17:13:22] "GET /upload HTTP/1.1" 200 -
+2023-11-15 17:13:35,142 - INFO - 127.0.0.1 - - [15/Nov/2023 17:13:35] "POST /upload HTTP/1.1" 200 -

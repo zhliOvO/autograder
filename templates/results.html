@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test Results</title>
+</head>
+<body>
+    <h1>Test Results</h1>
+    {% for result in results %}
+        <div>
+            <h3>{{ result.test_case }}</h3>
+            <p>Status: {{ result.status }}</p>
+            <p>Output: <pre>{{ result.output }}</pre></p>
+            <p>Expected: <pre>{{ result.expected_output }}</pre></p>
+            <p>Diff: <pre>{{ result.diff }}</pre></p>
+        </div>
+    {% endfor %}
+    <h2>Compilation Log</h2>
+    <pre>{{ log }}</pre>
+    <a href="/">Go back to home</a>
+</body>
+</html>
